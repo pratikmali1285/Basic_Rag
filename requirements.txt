@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+
+## LLM Provider
+langchain-groq
+langchain-text-splitters
+
+faiss-cpu
+jupyter
+ipykernel
+streamlit
+python-dotenv
+
