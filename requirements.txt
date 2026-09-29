@@ -1,14 +1,24 @@
 langchain
 langchain-core
 langchain-community
+langchain-text-splitters
 
 ## LLM Provider
 langchain-groq
-langchain-text-splitters
+langchain-openai
 
+## Vector store
+langchain-qdrant
+qdrant-client
 faiss-cpu
+
+## Gateway / tracing / evaluation
+portkey-ai
+langsmith
+openevals
+
+## App / notebook
 jupyter
 ipykernel
 streamlit
 python-dotenv
-
